@@ -2,14 +2,12 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Dwayne McKenzie
 logo:
-author: themefisher
+author: Dwayne McKenzie
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: dwaynemckenzie@live.com.au
+copyright: Copyright &copy; 2024 Dwayne McKenzie
 
 menu:
   - { name: About, link: "/about" }
@@ -36,13 +34,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Dwayne <br>, a Video, Post-Production and Design Creative
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+
 
 #-------------------------------
 # About (Section and Page)
