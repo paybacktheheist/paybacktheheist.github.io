@@ -1,18 +1,8 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Dwayne McKenzie
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I am a highly adaptable creative with over 200 completed projects. Whether that be video editing, designing still graphics or motion graphics, down to operating a camera, it doesn’t matter, I can step up to any creative role and adapt to different workflows and environments with 7+ years of creative experience at an amateur and professional level.
